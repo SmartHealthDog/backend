@@ -1,5 +1,6 @@
 # 🎯 Branch Convention & Git Convention
 ## 🎯 Git Convention
+# - message Convention
 # - Start: Start New Project
 # - Feat: 새로운 기능을 추가
 # - Fix: 버그 수정
