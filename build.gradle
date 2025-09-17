@@ -10,7 +10,7 @@ description = '똑똑하게 건강하개 백엔드'
 
 java {
 	toolchain {
-		languageVersion = JavaLanguageVersion.of(17)
+		languageVersion = JavaLanguageVersion.of(24)
 	}
 }
 
